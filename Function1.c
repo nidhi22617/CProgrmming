@@ -12,4 +12,6 @@ void printHello(){
 }
 void goodBye(){
     printf("Good-Bye Students\n"); //definition
+void Bye(){
+    printf("Bye Students\n"); //definition
 }
